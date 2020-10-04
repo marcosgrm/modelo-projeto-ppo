@@ -17,7 +17,7 @@ Descrever o que o seu aplicativo/sistema/solução terá de novo/novidade/inova�
 diferente das já existentes.
 
 ## Público alvo
-O aplicativo é destinado a todos que bsucam aprender ou aperfeiçoar seus conhecimentos em programação. Nesse âmbito, o aplicativo pode ser utilizado tanto por estudantes independentes quanto por professores em sala aula com sua turma.
+O aplicativo é destinado a todos que buscam aprender ou aperfeiçoar seus conhecimentos em programação. Nesse âmbito, o aplicativo pode ser utilizado tanto por estudantes independentes quanto por professores em sala aula com sua turma.
 
 ## Ferramental utilizado
 <ul>
@@ -31,8 +31,8 @@ O aplicativo é destinado a todos que bsucam aprender ou aperfeiçoar seus conhe
 - [@marcosgrm](https://github.com/marcosgrm) como Marcos Gabriel Rodrigues Melo (Desenvolvedor)
 - [@ClaraLarissa](https://github.com/ClaraLarissa) como Clara Larissa Duarte Trajano Dias (Desenvolvedora)
 - Eduardo Garcia Wanderley (Orientador)
-- Leonardo Soares e Silva (Professor colaborador)
-- Renata Garcia Wanderley (Professora colaboradora)
+- Leonardo Soares e Silva (Professor Colaborador)
+- Renata Garcia Wanderley (Professora Colaboradora)
 
 ## Licença
 Colocar a licença da qual será lançada o projeto. Discuta com a sua equipe e o
